@@ -12,9 +12,9 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/kunjans2020-">
+  <a href="https://github.com/kunjans2020">
     <img
-      src="https://komarev.com/ghpvc/?username=kunjan2020-&label=Profile%20Views&color=0e75b6&style=for-the-badge"
+      src="https://komarev.com/ghpvc/?username=kunjans2020&label=Profile%20Views&color=0e75b6&style=for-the-badge"
       alt="Profile Views"
     />
   </a>
@@ -41,13 +41,13 @@ I'm a **Full Stack Software Developer** who enjoys creating modern, responsive, 
 
 ## 🛠️ Tech Stack
 
-### 🎨 Frontend
+### 🎨 Frontend Development
 
 <p>
   <img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,tailwind" />
 </p>
 
-### ⚙️ Backend
+### ⚙️ Backend Development
 
 <p>
   <img src="https://skillicons.dev/icons?i=nodejs,express,php" />
@@ -71,7 +71,7 @@ I'm a **Full Stack Software Developer** who enjoys creating modern, responsive, 
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=kunjan2020&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&rank_icon=github"
+    src="https://github-readme-stats.vercel.app/api?username=kunjans2020&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&rank_icon=github"
     alt="Kunjan's GitHub Statistics"
   />
 </p>
@@ -82,7 +82,7 @@ I'm a **Full Stack Software Developer** who enjoys creating modern, responsive, 
 
 <p align="center">
   <img
-    src="https://streak-stats.demolab.com/?user=kunjan2020&theme=tokyonight&hide_border=true"
+    src="https://streak-stats.demolab.com/?user=kunjans2020&theme=tokyonight&hide_border=true"
     alt="Kunjan's GitHub Streak"
   />
 </p>
@@ -93,7 +93,7 @@ I'm a **Full Stack Software Developer** who enjoys creating modern, responsive, 
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=kunjan2020&layout=compact&theme=tokyonight&hide_border=true"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=kunjans2020&layout=compact&theme=tokyonight&hide_border=true"
     alt="Kunjan's Most Used Languages"
   />
 </p>
@@ -104,7 +104,7 @@ I'm a **Full Stack Software Developer** who enjoys creating modern, responsive, 
 
 <p align="center">
   <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=kunjan2020&theme=tokyo-night&hide_border=true&area=true"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=kunjans2020&theme=tokyo-night&hide_border=true&area=true"
     alt="Kunjan's GitHub Contribution Graph"
   />
 </p>
@@ -126,12 +126,5 @@ Tools           → Git • GitHub • VS Code • Postman • npm
 ## 🤝 Let's Connect
 
 <p align="center">
-  <a href="https://github.com/kunjans2020-">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
-
-<p align="center">
-  ⭐ Thanks for visiting my profile!
-</p>
-
+  <a href="https://github.com/kunjans2020">
+    <img src="https://img.shields.io/badge/GitHub-181717?styl
