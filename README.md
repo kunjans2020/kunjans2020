@@ -12,7 +12,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/kunjans2020">
+  <a href="https://github.com/kunjans2020-">
     <img
       src="https://komarev.com/ghpvc/?username=kunjan2020&label=Profile%20Views&color=0e75b6&style=for-the-badge"
       alt="Profile Views"
